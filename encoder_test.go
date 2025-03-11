@@ -2,10 +2,11 @@ package gosaxml_test
 
 import (
 	"bytes"
-	"github.com/HBTGmbH/gosaxml"
-	"github.com/stretchr/testify/assert"
 	"io"
 	"testing"
+
+	"github.com/HBTGmbH/gosaxml"
+	"github.com/stretchr/testify/assert"
 )
 
 func BenchmarkEncodeStartTokenWithNamespaceModifier(b *testing.B) {
