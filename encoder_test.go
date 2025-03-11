@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/HBTGmbH/gosaxml"
+	"github.com/matthew-sladescu/gosaxml"
 	"github.com/stretchr/testify/assert"
 )
 
