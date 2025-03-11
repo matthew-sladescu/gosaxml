@@ -1,4 +1,4 @@
-module github.com/HBTGmbH/gosaxml
+module github.com/matthew-sladescu/gosaxml
 
 go 1.17
 
